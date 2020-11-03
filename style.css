@@ -1,0 +1,14 @@
+body {
+  background-color: #2f36ed;
+  color: white;
+  font-family: 'Noto Sans KR', sans-serif;
+  text-align: center;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 10px auto;
+  max-width: 600px;
+  padding: 30px;
+  border: 4px double white;
+}
